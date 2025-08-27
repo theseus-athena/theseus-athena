@@ -8,12 +8,6 @@
   </a>
 </div>
 
-<div align="center"> 
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=theseus-athena&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
-  </a> 
-</div>
-
 <div align="center">
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=theseus-athena&show_icons=true&theme=radical&hide=issues&rank_icon=github&include_all_commits=true&card_width=150" />
@@ -23,7 +17,6 @@
   </a>
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## <picture><img src="javascript.gif" width = 250px align="right"></picture>
 
