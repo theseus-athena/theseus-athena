@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-<h1 align="center">Hi <img src="Hi.gif" width="30px">I'm Nenad, <b>Welcome to My Github!</b></h1>
+<h1 align="center">Hi <img src="Hi.gif" width="30px"> I'm Nenad, <b>Welcome to My Github!</b></h1>
 
 <div align="center">
   <a href="#">
