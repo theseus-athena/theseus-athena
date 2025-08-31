@@ -8,6 +8,12 @@
   </a>
 </div>
 
+<div align="center"> 
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=theseus-athena&title=Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
+  </a> 
+</div>
+
 <div align="center">
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=theseus-athena&show_icons=true&theme=radical&hide=issues&rank_icon=github&include_all_commits=true&card_width=150" />
